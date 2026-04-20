@@ -8,3 +8,6 @@ A desktop application built using JavaFX that allows students to book appointmen
 ## Technologies
 - Java
 - JavaFX
+  
+## Purpose
+This project was developed as part of university coursework to practice desktop application development and UI design using JavaFX.
